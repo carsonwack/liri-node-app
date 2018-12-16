@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/carsonwack/liri-node-app/issues"
   },
-  "homepage": "https://github.com/carsonwack/liri-node-app#readme"
+  "homepage": "https://github.com/carsonwack/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
 }
