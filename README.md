@@ -25,3 +25,11 @@ Use this app from the command-line to:
 Inquirer functionality to make things very intuitive for the user!
 
 
+
+
+
+Example runthrough via screenshots:
+
+
+
+
