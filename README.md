@@ -5,7 +5,7 @@ Use this app from the command-line to:
 
 
 
--search the spotify API for a song
+-search the spotify API for a song '/n'
 
 -search the OMDB API for a movie
 
