@@ -21,6 +21,15 @@ Includes Inquirer functionality to make things very intuitive for the user!
 
 
 
+Command-Line Startup:
+----------------------
+
+git clone https://github.com/carsonwack/node-and-SQL.git
+
+cd node-and-SQL
+
+node bamazon.js
+
 
 
 Example runthrough via screenshots:
