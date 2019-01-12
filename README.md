@@ -24,11 +24,11 @@ Includes Inquirer functionality to make things very intuitive for the user!
 Command-Line Startup Instructions:
 ----------------------------------
 
-git clone https://github.com/carsonwack/liri-node-app.git
+1. git clone https://github.com/carsonwack/liri-node-app.git
 
-cd liri-node-app
+2. cd liri-node-app
 
-node liri.js
+3. node liri.js
 
 
 
