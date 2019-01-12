@@ -21,8 +21,8 @@ Includes Inquirer functionality to make things very intuitive for the user!
 
 
 
-Command-Line Startup:
-----------------------
+Command-Line Startup Instructions:
+----------------------------------
 
 git clone https://github.com/carsonwack/liri-node-app.git
 
@@ -33,6 +33,7 @@ node liri.js
 
 
 Example runthrough via screenshots:
+-----------------------------------
 
 ![Alt text](./images/1.png?raw=true "Optional Title")
 
