@@ -24,11 +24,11 @@ Includes Inquirer functionality to make things very intuitive for the user!
 Command-Line Startup:
 ----------------------
 
-git clone https://github.com/carsonwack/node-and-SQL.git
+git clone https://github.com/carsonwack/liri-node-app.git
 
-cd node-and-SQL
+cd liri-node-app
 
-node bamazon.js
+node liri.js
 
 
 
